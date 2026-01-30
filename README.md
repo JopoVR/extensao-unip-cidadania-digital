@@ -30,3 +30,31 @@ O objetivo do projeto é promover a conscientização da comunidade externa sobr
 ---
 
 ## 📂 Estrutura do Projeto
+/index.html
+/privacidade.html
+/senhas.html
+/fakenews.html
+/golpes.html
+/quiz.html
+/css/style.css
+
+---
+
+## 📊 Avaliação de Impacto Social
+O impacto do projeto é avaliado por meio de um formulário online, que coleta feedback da comunidade sobre a clareza, utilidade e relevância dos conteúdos apresentados no portal educativo.
+
+---
+
+## 🎓 Contexto Acadêmico
+Projeto desenvolvido como atividade de extensão vinculada ao curso de Ciência da Computação da Universidade Paulista (UNIP), com foco na aplicação prática dos conhecimentos de tecnologia da informação em benefício da sociedade.
+
+---
+
+## 👨‍💻 Autor
+**João Vitor Vinhas Rezende**  
+Estudante de Ciência da Computação – UNIP
+
+---
+
+## 📜 Licença
+Este projeto é de caráter educacional e acadêmico, destinado exclusivamente para fins de ensino, extensão universitária e conscientização digital.
